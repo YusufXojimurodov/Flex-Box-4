@@ -1,0 +1,62 @@
+.h1 {
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.hf {
+    background-color: lightblue;
+    color: white;
+    width: 700px;
+    padding: 15px;
+}
+
+.body {
+    background-color: lightcoral;
+}
+
+.Father {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Aside {
+    background-color: aquamarine;
+    width: 230px;
+    height: 450px;
+    color: white;
+}
+.article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.fon{
+    background-color: lightsalmon;
+    width: 480px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.image{
+    background-color: gray;
+    width: 140px;
+    height: 160px;
+    margin-top: 280px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
